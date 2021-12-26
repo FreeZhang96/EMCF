@@ -3,8 +3,7 @@ Perceiving Temporal Environment for Correlation Filters in Real-time UAV trackin
 
 
 ## Publication
-Our paper has been accepted by IEEE Signal Processing Letters.
-The paper of EMCF can be found here: https://ieeexplore.ieee.org/document/9580739
+Our paper has been accepted by IEEE Signal Processing Letters, which can be found here: https://ieeexplore.ieee.org/document/9580739.
 
 ## Results
 
