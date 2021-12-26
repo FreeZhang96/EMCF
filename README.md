@@ -1,5 +1,11 @@
 # Environmental Mutation-insensitive Correlation Filters(EMCF)
 Perceiving Temporal Environment for Correlation Filters in Real-time UAV tracking
+
+
+## Publication
+Our paper has been accepted by IEEE Signal Processing Letters.
+The paper of EMCF can be found here: https://ieeexplore.ieee.org/document/9580739
+
 ## Results
 
 ### UAV123_10fps
